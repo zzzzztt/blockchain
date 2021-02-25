@@ -1,4 +1,4 @@
-//g++ -std=c++14 zhihuserver.cpp -lpthread -o zhihuserver
+//g++ -std=c++14 server.cpp -lpthread -o server
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <stdio.h>
